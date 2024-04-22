@@ -13,4 +13,10 @@ This data has many possible uses. It could be used to:
 - Look at specific natural disaster trends over the last 40 years
 - Look at natural disaster trends as a whole over the last 40 years
 - Examine the frequencey of natural disasters during a specific year or for a specific country
-- Predict future trends in natural disaster frequencies 
+- Predict future trends in natural disaster frequencies
+
+##
+
+## Data Visualization
+This bar graph examines the trend of the total natural disaster frequency in just the United States over the past 4o years, from 1980 to 2020. This visualization was created using the website Datawrapper. This graph shows that as a whole, natural disasters in the US are on the rise. 
+![p6Exu-total-climate-related-natural-disasters-in-the-us](https://github.com/caitisad/Climate-Related-Natural-Disasters/assets/167792033/230d3bef-a479-42c0-8167-da924fc311fb)
