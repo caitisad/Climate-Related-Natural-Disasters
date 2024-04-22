@@ -4,12 +4,14 @@
 This data compilation was created for Professor Gotzeler's English 105 Class in the 2024 Spring Semeseter. 
 
 ## What Does This Repository Contain?
-This repository contains the original dataset, the subset I created to make the visualization included further down. 
+This repository contains the original dataset, the subset I created to make the visualization included further down, the guide for creating the subset titled "DataCompilationGuide", and the visualization itself. 
 
 ## About This Data
 This data is collected from the IMF Climate Change Dashboard. It compiles data from dozens of countries over the past 40 years of the frequency of various natural disasters. These natural disasters include storms, floods, droughts, landslides, wildfires, and extreme temperatures.
 
 The data was found on this website: https://climatedata.imf.org/pages/climatechange-data
+
+The data subset was created from the original dataset using Python in Google CoLabs.
 
 ## What Could This Data Be Used For?
 This data has many possible uses. It could be used to:
