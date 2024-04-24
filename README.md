@@ -24,7 +24,7 @@ This data has many possible uses. It could be used to:
 
 ## Data Visualization
 This bar graph examines the trend of the total natural disaster frequency in just the United States over the past 4o years, from 1980 to 2020. This visualization was created using the website Datawrapper. This graph shows that as a whole, natural disasters in the US are on the rise. This may be the result of climate change, since these natural disasters are climate-related.  
-![p6Exu-total-climate-related-natural-disasters-in-the-us](https://github.com/caitisad/Climate-Related-Natural-Disasters/assets/167792033/230d3bef-a479-42c0-8167-da924fc311fb)
+![p6Exu-total-climate-related-natural-disasters-in-the-us-2](https://github.com/caitisad/Climate-Related-Natural-Disasters/assets/167792033/7f28b677-ca57-406a-973e-8015d3964b1f)
 
 ## Use This Data Yourself
 The file titled "Data Compilation Guide" provides a step by step on how to download the original dataset and create your own subsets. 
